@@ -1,2 +1,0 @@
-# onlyhtml
-only html project
